@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * 后台资源管理Service实现类
- * Created by macro on 2020/2/2.
+ * Created by laoweihao on 2023/08/05.
  */
 @Service
 public class UmsResourceServiceImpl implements UmsResourceService {

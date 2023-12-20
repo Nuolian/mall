@@ -5,6 +5,9 @@ import com.macro.mall.model.UmsResourceCategoryExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
+/**
+ * @author LW
+ */
 public interface UmsResourceCategoryMapper {
     long countByExample(UmsResourceCategoryExample example);
 
